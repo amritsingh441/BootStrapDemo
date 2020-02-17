@@ -1,0 +1,29 @@
+.bg-light {
+    background-color: cadetblue !important;
+}
+
+.border-dark {
+    border-color: coral !important;
+}
+
+h3{
+    color: coral;
+    font-size: 5em;
+}
+
+.imgCls{
+    width: 23vw;
+    height: 35vh;
+}
+
+.icon-size-custom{
+    padding: 2rem;
+    font-size: 5em;
+    align-content: center;
+    text-align: center;
+}
+
+footer{
+    background-color: cadetblue;
+}
+
